@@ -1,7 +1,9 @@
 Top 10 Azure PowerShell scripts
 
 Connect to Azure Account:
+```
 Connect-AzAccount
+```
 
 List Azure Subscriptions:
 Get-AzSubscription
